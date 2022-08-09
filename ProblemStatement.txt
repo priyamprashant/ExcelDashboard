@@ -1,0 +1,8 @@
+Problem Statement:
+
+A dashboard to analyse the 
+four specific data in a food 
+delivery datase i.e region wise sales,
+top ten customer, month and yearwise sales,
+delivery person sales in eac
+h region.
